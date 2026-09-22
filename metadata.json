@@ -1,0 +1,6 @@
+{
+  "name": "Glamping el Refugio La Calera",
+  "description": "Sitio web interactivo y sistema de reservas directas de Glamping el Refugio en La Calera, Cundinamarca. Domos de madera, malla catamarán, vista panorámica al Valle de Sopó y granja agroecológica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
